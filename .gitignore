@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.json
+# report.md and charts/ are NOT ignored on purpose: commit the real Nigeria report so GitHub displays it
