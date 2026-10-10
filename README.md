@@ -1,5 +1,7 @@
 # From the MDGs to the SDGs: Then and Now (all goals)
 
+[![tests](https://github.com/Bak-AbasiUdoessien/sdg-mdg-then-and-now/actions/workflows/tests.yml/badge.svg)](https://github.com/Bak-AbasiUdoessien/sdg-mdg-then-and-now/actions/workflows/tests.yml)
+
 The Millennium Development Goals (2000–2015) set 1990 as their baseline. In 2015 the Sustainable Development Goals took over. This project asks one question for a country:
 
 > **Has progress sped up or slowed down since the SDGs began?**
